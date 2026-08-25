@@ -78,7 +78,7 @@ pedido1.finalizarPedido();
 - [Marco Antônio Chaves De Souza]
 - [Gabriel Ribeiro Guimaraes]
 
-## Dificuldades encontradas
+##  Dificuldades encontradas
 
 [Durante o desenvolvimento, o grupo enfrentou algumas dificuldades típicas de quem está começando com Programação Orientada a Objetos em Java:
 
