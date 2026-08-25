@@ -75,7 +75,7 @@ pedido1.finalizarPedido();
 
 - [Marlon Santos carvalho]
 - [João Vitor Gonçalves de Jesus]
-- [Marco Antônio]
+- [Marco Antônio Chaves De Souza]
 - [Gabriel]
 
 ## Dificuldades encontradas
