@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Restaurante
 
-Trabalho de Programação Orientada a Objetos (Unidade 1) — **Grupo B**.
+Trabalho de LP1 — **Grupo B**.
 
 Sistema em Java que simula as operações básicas de um restaurante: cadastro de mesas e produtos, abertura de pedidos, adição de itens, cálculo do total e finalização do atendimento.
 
